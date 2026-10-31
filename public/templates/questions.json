@@ -1,0 +1,25 @@
+[
+  {
+    "id": "LOCAL-SAMPLE",
+    "subject": "조사방법과 설계",
+    "topic": "조사 개념",
+    "question": "조사 대상을 선정하는 데 사용하는 목록의 명칭은?",
+    "choices": [
+      "표집틀",
+      "회귀계수",
+      "표준편차",
+      "신뢰구간"
+    ],
+    "answer": 1,
+    "explanation": "표집틀은 표본을 뽑기 위해 사용하는 목록이나 체계이다.",
+    "difficulty": "중",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Certified-Social-Research-Analyst-CBT",
+    "verificationStatus": "pending",
+    "reviewNote": "가져오기 양식 예시. 이용자가 직접 검수할 것.",
+    "version": "social-main",
+    "rights": "자체 제작 문항 CC BY 4.0 (저작권이 성립하는 범위). 기출 재배포 권리 주장이 아님."
+  }
+]

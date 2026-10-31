@@ -1,0 +1,2 @@
+id,subject,topic,question,answer,explanation,difficulty,year,session,type,sourceUrl,verificationStatus,reviewNote,version,rights,choice1,choice2,choice3,choice4
+LOCAL-SAMPLE,조사방법과 설계,조사 개념,조사 대상을 선정하는 데 사용하는 목록의 명칭은?,1,표집틀은 표본을 뽑기 위해 사용하는 목록이나 체계이다.,중,,,original,https://github.com/YunSangYeong/Certified-Social-Research-Analyst-CBT,pending,가져오기 양식 예시. 이용자가 직접 검수할 것.,social-main,자체 제작 문항 CC BY 4.0 (저작권이 성립하는 범위). 기출 재배포 권리 주장이 아님.,표집틀,회귀계수,표준편차,신뢰구간
